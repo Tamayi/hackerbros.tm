@@ -16,3 +16,8 @@ Suppose you have a file with passwords. Including it in your Git repo has 2 prob
 - Users in our environment with will overwrite each others credentials
 
 Create a .gitignore file to list all permanently untracked files and folders.
+
+## Understanding "git add" and "git commit"
+
+Working directory - where our source code is (adding and editing our files + folders)
+
