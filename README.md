@@ -27,3 +27,5 @@ Remote Repository - [git push] commit that changes onto our remote repository
 # Add a Remote Repository (GitHub)
 
 We will now create our GitHub repository
+
+# We will take a break
