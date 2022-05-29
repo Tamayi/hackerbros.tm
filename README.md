@@ -1,4 +1,4 @@
-# Intrioduction to Git
+# Introduction to Git
 
 This exercise will help us to understand Git.
 
