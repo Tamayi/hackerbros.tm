@@ -29,3 +29,4 @@ Remote Repository - [git push] commit that changes onto our remote repository
 We will now create our GitHub repository
 
 Testing what happens with a conflict
+# We will take a break
