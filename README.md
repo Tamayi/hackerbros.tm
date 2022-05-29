@@ -20,4 +20,6 @@ Create a .gitignore file to list all permanently untracked files and folders.
 ## Understanding "git add" and "git commit"
 
 Working directory - where our source code is (adding and editing our files + folders)
-
+Stage - [git add] where our "changes" are held before being committed to the Git repository, can undo
+Local Repository - [git commit] commit the changes into our repository, hard to to undo
+Remote Repository - [git push] commit that changes onto our remote repository
